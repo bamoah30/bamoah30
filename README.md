@@ -16,7 +16,7 @@ I blend mechanical intuition with intelligent software to build systems that thi
 - Building small tools and documenting the process
 
 🦄 **Identity Statement:**
-I’m building intelligent systems—one line of code, one insight, one iteration at a time.  
+I'm Building Intelligent Systems That Move, Think, and Adapt - One Line of Code, One Insight, One Iteration At A Time.  
 My long-term goal is to become a **Futuristic Unicorn Engineer**: someone who blends mechanical depth with intelligent software to create scalable, interpretable, and impactful solutions.
 
 ---
