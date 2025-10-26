@@ -1,3 +1,5 @@
+<img src="Banner.png" alt="Bernard's Banner" style="width:100%;"/>
+
 # 👋 Hi, I'm Bernard
 
 ## 🚀 About Me
