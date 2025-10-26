@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 I'm a **Mechanical Engineering graduate** on a 6-year journey to become a **Full-Stack AI + Robotics Engineer**.  
-Right now, I'm focused on the first 24 months: mastering AI engineering through Python, ML systems, and public documentation.
+Currently, I'm focused on the first 24 months: mastering AI engineering through Python, ML systems, and public documentation.
 
 I blend mechanical intuition with intelligent software to build systems that think, move, and adapt.
 
