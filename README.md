@@ -17,7 +17,7 @@ I blend mechanical intuition with intelligent software to build systems that thi
 
 🦄 **Identity Statement:**
 I'm Building Intelligent Systems That Move, Think, and Adapt - One Line of Code, One Insight, One Iteration At A Time.  
-My long-term goal is to become a **Futuristic Unicorn Engineer**: someone who blends mechanical depth with intelligent software to create scalable, interpretable, and impactful solutions.
+My long-term goal is to become ** AI + ROBOTIC ENGINEER**: someone who blends mechanical depth with intelligent software to create scalable, interpretable, and impactful solutions.
 
 ---
 
@@ -86,6 +86,6 @@ You can explore the roadmap [here](https://github.com/bamoah30/Agenda-6-years).
 ---
 
 **“The future belongs to those who build it. I’m building mine—one commit at a time.”**  
-*— Bernard, aspiring Futuristic Unicorn Engineer*
+*— Bernard, aspiring AI + ROBOTIC Engineer*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bamoah30&color=blueviolet)
