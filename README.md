@@ -73,7 +73,7 @@ You can explore the roadmap [here](https://github.com/bamoah30/Agenda-6-years).
 - Build and deploy 6+ intelligent systems  
 - Contribute to open-source AI tools  
 - Launch robotics experiments and public demos  
-- Build a timeless brand as a Futuristic Unicorn Engineer
+- Build a timeless brand as a Fullstack AI + Robotics Engineer
 
 ---
 
